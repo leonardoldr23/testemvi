@@ -245,7 +245,7 @@ data class ColorFamily(
 )
 
 @Composable
-fun MyListerTheme (
+fun TesteMVITheme (
     darkTheme: Boolean = isSystemInDarkTheme(),
     content: @Composable() () -> Unit
 ) {

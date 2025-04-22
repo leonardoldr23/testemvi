@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "br.com.mylister"
+    namespace = "br.com.testemvi"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "br.com.mylister"
+        applicationId = "br.com.testemvi"
         minSdk = 28
         targetSdk = 35
         versionCode = 1
