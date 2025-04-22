@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">Teste MVI</string>
+	<string name="screen_list_login">Login</string>
+</resources>
