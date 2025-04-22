@@ -1,14 +1,14 @@
-package br.com.mylister.database
+package br.com.testemvi.database
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
-import br.com.mylister.database.dao.AccountDao
-import br.com.mylister.database.entity.Account
-import br.com.mylister.database.type.DateTime
-import br.com.mylister.database.type.Uuid
+import br.com.testemvi.database.dao.AccountDao
+import br.com.testemvi.database.entity.Account
+import br.com.testemvi.database.type.DateTime
+import br.com.testemvi.database.type.Uuid
 
 @Database(entities = [Account::class], version = 1)
 @TypeConverters(Uuid::class, DateTime::class)

@@ -1,4 +1,4 @@
-package br.com.mylister.main.model
+package br.com.testemvi.main.model
 
 import androidx.compose.animation.AnimatedContentTransitionScope
 import androidx.compose.animation.EnterTransition

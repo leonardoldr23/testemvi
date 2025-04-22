@@ -1,4 +1,4 @@
-package br.com.mylister.modules.account.login.presentation
+package br.com.testemvi.modules.account.login.presentation
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
@@ -9,11 +9,10 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import br.com.mylister.ds.text.HeaderLarge
-import br.com.mylister.modules.account.login.presentation.component.AccountList
-import br.com.mylister.modules.account.login.presentation.component.LoginForm
-import br.com.mylister.modules.account.login.presentation.state.LoginAction
-import br.com.mylister.modules.account.login.presentation.LoginViewModel
+import br.com.testemvi.ds.text.HeaderLarge
+import br.com.testemvi.modules.account.login.presentation.component.AccountList
+import br.com.testemvi.modules.account.login.presentation.component.LoginForm
+import br.com.testemvi.modules.account.login.presentation.state.LoginAction
 
 @Composable
 fun LoginScreen() {

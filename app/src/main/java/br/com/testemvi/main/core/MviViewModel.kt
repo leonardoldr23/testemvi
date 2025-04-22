@@ -1,4 +1,4 @@
-package br.com.mylister.main.core
+package br.com.testemvi.main.core
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

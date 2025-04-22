@@ -1,4 +1,4 @@
-package br.com.mylister.database.type
+package br.com.testemvi.database.type
 
 import androidx.room.TypeConverter
 import java.util.Date

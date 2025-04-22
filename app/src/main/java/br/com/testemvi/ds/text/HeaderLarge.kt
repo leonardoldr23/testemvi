@@ -1,4 +1,4 @@
-package br.com.mylister.ds.text
+package br.com.testemvi.ds.text
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text

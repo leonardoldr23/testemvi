@@ -1,7 +1,7 @@
-package br.com.mylister.main.model
+package br.com.testemvi.main.model
 
 import androidx.annotation.StringRes
-import br.com.mylister.R
+import br.com.testemvi.R
 
 enum class ScreenList (
     @StringRes val title: Int,

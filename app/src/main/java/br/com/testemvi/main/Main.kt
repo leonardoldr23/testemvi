@@ -1,4 +1,4 @@
-package br.com.mylister.main
+package br.com.testemvi.main
 
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
@@ -10,9 +10,9 @@ import androidx.compose.ui.Modifier
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.rememberNavController
-import br.com.mylister.main.model.ScreenList
-import br.com.mylister.main.model.enterTransition
-import br.com.mylister.main.model.exitTransition
+import br.com.testemvi.main.model.ScreenList
+import br.com.testemvi.main.model.enterTransition
+import br.com.testemvi.main.model.exitTransition
 
 @Composable
 fun Main (navController: NavHostController = rememberNavController()) {

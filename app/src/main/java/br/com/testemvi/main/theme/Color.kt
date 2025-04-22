@@ -1,4 +1,4 @@
-package br.com.mylister.main.theme
+package br.com.testemvi.main.theme
 
 import androidx.compose.ui.graphics.Color
 

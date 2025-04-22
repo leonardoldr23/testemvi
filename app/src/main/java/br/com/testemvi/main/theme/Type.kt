@@ -1,8 +1,8 @@
-package br.com.mylister.main.theme
+package br.com.testemvi.main.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.font.FontFamily
-import br.com.mylister.R
+import br.com.testemvi.R
 
 import androidx.compose.ui.text.googlefonts.GoogleFont
 import androidx.compose.ui.text.googlefonts.Font

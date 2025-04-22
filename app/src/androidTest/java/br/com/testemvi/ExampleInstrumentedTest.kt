@@ -1,4 +1,4 @@
-package br.com.mylister
+package br.com.testemvi
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

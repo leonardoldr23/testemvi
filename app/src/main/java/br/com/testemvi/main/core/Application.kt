@@ -1,8 +1,8 @@
-package br.com.mylister.main.core
+package br.com.testemvi.main.core
 
 import android.app.Application
 import android.content.Context
-import br.com.mylister.database.AppDatabase
+import br.com.testemvi.database.AppDatabase
 
 class Application: Application() {
 

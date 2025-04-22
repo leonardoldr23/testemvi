@@ -1,4 +1,4 @@
-package br.com.mylister.main.theme
+package br.com.testemvi.main.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

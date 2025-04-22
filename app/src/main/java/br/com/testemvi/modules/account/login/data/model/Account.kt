@@ -1,4 +1,4 @@
-package br.com.mylister.modules.account.login.data.model
+package br.com.testemvi.modules.account.login.data.model
 
 import java.util.UUID
 

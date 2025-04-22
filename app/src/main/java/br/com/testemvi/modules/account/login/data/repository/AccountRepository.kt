@@ -1,8 +1,8 @@
-package br.com.mylister.modules.account.login.data.repository
+package br.com.testemvi.modules.account.login.data.repository
 
-import br.com.mylister.database.entity.Account as AccountEntity
-import br.com.mylister.main.core.Application
-import br.com.mylister.modules.account.login.data.model.Account
+import br.com.testemvi.database.entity.Account as AccountEntity
+import br.com.testemvi.main.core.Application
+import br.com.testemvi.modules.account.login.data.model.Account
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.transform
 import java.util.UUID

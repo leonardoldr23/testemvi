@@ -1,4 +1,4 @@
-package br.com.mylister
+package br.com.testemvi
 
 import org.junit.Test
 

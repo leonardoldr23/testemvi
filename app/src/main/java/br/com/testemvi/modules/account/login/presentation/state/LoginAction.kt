@@ -1,4 +1,4 @@
-package br.com.mylister.modules.account.login.presentation.state
+package br.com.testemvi.modules.account.login.presentation.state
 
 import java.util.UUID
 

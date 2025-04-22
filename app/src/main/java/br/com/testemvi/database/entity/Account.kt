@@ -1,4 +1,4 @@
-package br.com.mylister.database.entity
+package br.com.testemvi.database.entity
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

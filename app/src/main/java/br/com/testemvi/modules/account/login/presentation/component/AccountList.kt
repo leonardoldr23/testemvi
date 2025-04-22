@@ -1,4 +1,4 @@
-package br.com.mylister.modules.account.login.presentation.component
+package br.com.testemvi.modules.account.login.presentation.component
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ColumnScope
@@ -15,7 +15,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import br.com.mylister.modules.account.login.data.model.Account
+import br.com.testemvi.modules.account.login.data.model.Account
 
 @Composable
 fun ColumnScope.AccountList(

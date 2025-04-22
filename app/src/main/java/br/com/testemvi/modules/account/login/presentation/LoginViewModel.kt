@@ -1,11 +1,11 @@
-package br.com.mylister.modules.account.login.presentation
+package br.com.testemvi.modules.account.login.presentation
 
-import br.com.mylister.main.core.MviViewModel
-import br.com.mylister.modules.account.login.data.repository.AccountRepository
-import br.com.mylister.modules.account.login.presentation.state.LoginAction
-import br.com.mylister.modules.account.login.presentation.state.LoginEvent
-import br.com.mylister.modules.account.login.presentation.state.LoginFormState
-import br.com.mylister.modules.account.login.presentation.state.LoginState
+import br.com.testemvi.main.core.MviViewModel
+import br.com.testemvi.modules.account.login.data.repository.AccountRepository
+import br.com.testemvi.modules.account.login.presentation.state.LoginAction
+import br.com.testemvi.modules.account.login.presentation.state.LoginEvent
+import br.com.testemvi.modules.account.login.presentation.state.LoginFormState
+import br.com.testemvi.modules.account.login.presentation.state.LoginState
 import java.util.*
 
 class LoginViewModel : MviViewModel<LoginAction, LoginEvent, LoginState>(LoginState()) {
